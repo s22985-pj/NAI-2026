@@ -1,0 +1,68 @@
+NIM | Człowiek vs AI (minimax)
+Zabierz elementy z jednego stosu. Ostatni element wygrywa.
+DEMO: człowiek zabiera 1 element z pierwszego niepustego stosu.
+
+Stos 1: ||| (3)
+Stos 2: |||| (4)
+Stos 3: ||||| (5)
+Człowiek: stos 1, zabiera 1.
+
+Stos 1: || (2)
+Stos 2: |||| (4)
+Stos 3: ||||| (5)
+AI: stos 1, zabiera 1.
+
+Stos 1: | (1)
+Stos 2: |||| (4)
+Stos 3: ||||| (5)
+Człowiek: stos 1, zabiera 1.
+
+Stos 1: - (0)
+Stos 2: |||| (4)
+Stos 3: ||||| (5)
+AI: stos 3, zabiera 1.
+
+Stos 1: - (0)
+Stos 2: |||| (4)
+Stos 3: |||| (4)
+Człowiek: stos 2, zabiera 1.
+
+Stos 1: - (0)
+Stos 2: ||| (3)
+Stos 3: |||| (4)
+AI: stos 3, zabiera 1.
+
+Stos 1: - (0)
+Stos 2: ||| (3)
+Stos 3: ||| (3)
+Człowiek: stos 2, zabiera 1.
+
+Stos 1: - (0)
+Stos 2: || (2)
+Stos 3: ||| (3)
+AI: stos 3, zabiera 1.
+
+Stos 1: - (0)
+Stos 2: || (2)
+Stos 3: || (2)
+Człowiek: stos 2, zabiera 1.
+
+Stos 1: - (0)
+Stos 2: | (1)
+Stos 3: || (2)
+AI: stos 3, zabiera 1.
+
+Stos 1: - (0)
+Stos 2: | (1)
+Stos 3: | (1)
+Człowiek: stos 2, zabiera 1.
+
+Stos 1: - (0)
+Stos 2: - (0)
+Stos 3: | (1)
+AI: stos 3, zabiera 1.
+
+Stos 1: - (0)
+Stos 2: - (0)
+Stos 3: - (0)
+Wygrywa AI!
