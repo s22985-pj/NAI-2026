@@ -1,0 +1,117 @@
+Jakub Kleemann | Euclidean | kandydaci: 190
+5 REKOMENDACJI
+1. Matrix | 8.89/10 | ocen: 5 | sąsiedzi + prior
+2. Hail Mary | 8.80/10 | ocen: 3 | sąsiedzi + prior
+3. Rick & Morty | 8.73/10 | ocen: 2 | sąsiedzi + prior
+4. Narcos | 8.71/10 | ocen: 5 | sąsiedzi + prior
+5. Whiplash | 8.63/10 | ocen: 2 | sąsiedzi + prior
+5 ANTYREKOMENDACJI (najniższe prognozy)
+1. Barbie | 4.34/10 | ocen: 6 | sąsiedzi + prior
+2. ślub Friza | 4.43/10 | ocen: 2 | ogólna (brak sąsiadów filmu)
+3. Battleship: Bitwa o Ziemię | 5.38/10 | ocen: 1 | sąsiedzi + prior
+4. Cicha Noc | 5.38/10 | ocen: 1 | sąsiedzi + prior
+5. Wyjazd integracyjny | 5.38/10 | ocen: 1 | sąsiedzi + prior
+SĄSIEDZI (min. 3 wspólne oceny):
+  Paweł Czapiewski: wspólne=3, podobieństwo=0.2109, waga=0.1054
+  Nikifor Koseda: wspólne=8, podobieństwo=0.1250, waga=0.0909
+  Mateusz Aftanas: wspólne=7, podobieństwo=0.0830, waga=0.0581
+  Łukasz Dahm: wspólne=4, podobieństwo=0.0984, waga=0.0562
+
+Jakub Kleemann | Pearson | kandydaci: 190
+5 REKOMENDACJI
+1. Reacher | 8.94/10 | ocen: 2 | sąsiedzi + prior
+2. Matrix | 8.89/10 | ocen: 5 | sąsiedzi + prior
+3. Rick & Morty | 8.87/10 | ocen: 2 | sąsiedzi + prior
+4. Narcos | 8.84/10 | ocen: 5 | sąsiedzi + prior
+5. Iniemamocni | 8.81/10 | ocen: 3 | sąsiedzi + prior
+5 ANTYREKOMENDACJI (najniższe prognozy)
+1. Barbie | 4.20/10 | ocen: 6 | sąsiedzi + prior
+2. ślub Friza | 4.43/10 | ocen: 2 | ogólna (brak sąsiadów filmu)
+3. Battleship: Bitwa o Ziemię | 5.08/10 | ocen: 1 | sąsiedzi + prior
+4. Cicha Noc | 5.08/10 | ocen: 1 | sąsiedzi + prior
+5. Wyjazd integracyjny | 5.08/10 | ocen: 1 | sąsiedzi + prior
+SĄSIEDZI (min. 3 wspólne oceny):
+  Nikifor Koseda: wspólne=8, podobieństwo=0.5316, waga=0.3866
+  Paweł Czapiewski: wspólne=3, podobieństwo=0.3974, waga=0.1987
+  Mateusz Aftanas: wspólne=7, podobieństwo=0.0858, waga=0.0601
+
+Piotr Treder | Euclidean | kandydaci: 188
+5 REKOMENDACJI
+1. Matrix | 9.06/10 | ocen: 5 | sąsiedzi + prior
+2. Hail Mary | 9.03/10 | ocen: 3 | sąsiedzi + prior
+3. Rick & Morty | 8.81/10 | ocen: 2 | sąsiedzi + prior
+4. WALL-E | 8.78/10 | ocen: 3 | sąsiedzi + prior
+5. Diuna | 8.71/10 | ocen: 3 | sąsiedzi + prior
+5 ANTYREKOMENDACJI (najniższe prognozy)
+1. ślub Friza | 3.81/10 | ocen: 2 | sąsiedzi + prior
+2. Barbie | 4.02/10 | ocen: 6 | sąsiedzi + prior
+3. 365 dni: Ten dzień | 5.17/10 | ocen: 1 | sąsiedzi + prior
+4. Kokainowy rekin | 5.22/10 | ocen: 1 | sąsiedzi + prior
+5. Battleship: Bitwa o Ziemię | 5.36/10 | ocen: 1 | sąsiedzi + prior
+SĄSIEDZI (min. 3 wspólne oceny):
+  Miłosz Kurszewski: wspólne=3, podobieństwo=0.2612, waga=0.1306
+  Nikifor Koseda: wspólne=5, podobieństwo=0.2052, waga=0.1283
+  Łukasz Dahm: wspólne=6, podobieństwo=0.1667, waga=0.1111
+  Paweł Czapiewski: wspólne=4, podobieństwo=0.1907, waga=0.1090
+  Mateusz Aftanas: wspólne=7, podobieństwo=0.1544, waga=0.1081
+  Nikodem Cyrzan: wspólne=4, podobieństwo=0.1640, waga=0.0937
+  Stanislas Hinsinger: wspólne=4, podobieństwo=0.1228, waga=0.0702
+
+Piotr Treder | Pearson | kandydaci: 188
+5 REKOMENDACJI
+1. Matrix | 9.44/10 | ocen: 5 | sąsiedzi + prior
+2. Rick & Morty | 9.43/10 | ocen: 2 | sąsiedzi + prior
+3. Hail Mary | 9.22/10 | ocen: 3 | sąsiedzi + prior
+4. Whiplash | 9.14/10 | ocen: 2 | sąsiedzi + prior
+5. Mroczny Rycerz | 9.13/10 | ocen: 2 | sąsiedzi + prior
+5 ANTYREKOMENDACJI (najniższe prognozy)
+1. Barbie | 4.04/10 | ocen: 6 | sąsiedzi + prior
+2. Battleship: Bitwa o Ziemię | 4.31/10 | ocen: 1 | sąsiedzi + prior
+3. Cicha Noc | 4.31/10 | ocen: 1 | sąsiedzi + prior
+4. Wyjazd integracyjny | 4.31/10 | ocen: 1 | sąsiedzi + prior
+5. ślub Friza | 4.43/10 | ocen: 2 | ogólna (brak sąsiadów filmu)
+SĄSIEDZI (min. 3 wspólne oceny):
+  Paweł Czapiewski: wspólne=4, podobieństwo=0.9191, waga=0.5252
+  Łukasz Dahm: wspólne=6, podobieństwo=0.6229, waga=0.4153
+  Nikifor Koseda: wspólne=5, podobieństwo=0.6594, waga=0.4121
+  Mateusz Aftanas: wspólne=7, podobieństwo=0.5451, waga=0.3816
+  Miłosz Kurszewski: wspólne=3, podobieństwo=0.5000, waga=0.2500
+
+Aleksander Kozłowicz | Euclidean | kandydaci: 228
+BRAK WIARYGODNYCH SĄSIADÓW: ranking ogólny, bez personalizacji.
+5 REKOMENDACJI
+1. Hail Mary | 8.69/10 | ocen: 3 | ogólna (brak sąsiadów filmu)
+2. Matrix | 8.64/10 | ocen: 5 | ogólna (brak sąsiadów filmu)
+3. WALL-E | 8.52/10 | ocen: 3 | ogólna (brak sąsiadów filmu)
+4. Breaking bad | 8.43/10 | ocen: 2 | ogólna (brak sąsiadów filmu)
+5. Reacher | 8.43/10 | ocen: 2 | ogólna (brak sąsiadów filmu)
+5 ANTYREKOMENDACJI (najniższe prognozy)
+1. Barbie | 4.35/10 | ocen: 6 | ogólna (brak sąsiadów filmu)
+2. ślub Friza | 4.43/10 | ocen: 2 | ogólna (brak sąsiadów filmu)
+3. 365 dni: Ten dzień | 5.53/10 | ocen: 1 | ogólna (brak sąsiadów filmu)
+4. Joker | 5.63/10 | ocen: 2 | ogólna (brak sąsiadów filmu)
+5. 365 dni | 5.78/10 | ocen: 1 | ogólna (brak sąsiadów filmu)
+SĄSIEDZI (min. 3 wspólne oceny):
+
+Aleksander Kozłowicz | Pearson | kandydaci: 228
+BRAK WIARYGODNYCH SĄSIADÓW: ranking ogólny, bez personalizacji.
+5 REKOMENDACJI
+1. Hail Mary | 8.69/10 | ocen: 3 | ogólna (brak sąsiadów filmu)
+2. Matrix | 8.64/10 | ocen: 5 | ogólna (brak sąsiadów filmu)
+3. WALL-E | 8.52/10 | ocen: 3 | ogólna (brak sąsiadów filmu)
+4. Breaking bad | 8.43/10 | ocen: 2 | ogólna (brak sąsiadów filmu)
+5. Reacher | 8.43/10 | ocen: 2 | ogólna (brak sąsiadów filmu)
+5 ANTYREKOMENDACJI (najniższe prognozy)
+1. Barbie | 4.35/10 | ocen: 6 | ogólna (brak sąsiadów filmu)
+2. ślub Friza | 4.43/10 | ocen: 2 | ogólna (brak sąsiadów filmu)
+3. 365 dni: Ten dzień | 5.53/10 | ocen: 1 | ogólna (brak sąsiadów filmu)
+4. Joker | 5.63/10 | ocen: 2 | ogólna (brak sąsiadów filmu)
+5. 365 dni | 5.78/10 | ocen: 1 | ogólna (brak sąsiadów filmu)
+SĄSIEDZI (min. 3 wspólne oceny):
+
+Jakub Kleemann: Euclidean vs Pearson: wspólne top-5: 3/5; wspólne bottom-5: 5/5.
+Lider Euclidean: Matrix (8.89); lider Pearson: Reacher (8.94).
+Piotr Treder: Euclidean vs Pearson: wspólne top-5: 3/5; wspólne bottom-5: 3/5.
+Lider Euclidean: Matrix (9.06); lider Pearson: Matrix (9.44).
+Aleksander Kozłowicz: Euclidean vs Pearson: wspólne top-5: 5/5; wspólne bottom-5: 5/5.
+Lider Euclidean: Hail Mary (8.69); lider Pearson: Hail Mary (8.69).

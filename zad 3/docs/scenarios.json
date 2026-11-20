@@ -1,0 +1,707 @@
+[
+  {
+    "user": "Jakub Kleemann",
+    "metric": "Euclidean",
+    "recommendations": [
+      {
+        "title": "Matrix",
+        "score": 8.892259136464883,
+        "rating_count": 5,
+        "neighbors": [
+          "Nikifor Koseda",
+          "Mateusz Aftanas",
+          "Łukasz Dahm"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Hail Mary",
+        "score": 8.798543060620252,
+        "rating_count": 3,
+        "neighbors": [
+          "Mateusz Aftanas"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Rick & Morty",
+        "score": 8.732635276794529,
+        "rating_count": 2,
+        "neighbors": [
+          "Paweł Czapiewski",
+          "Mateusz Aftanas"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Narcos",
+        "score": 8.711314147195013,
+        "rating_count": 5,
+        "neighbors": [
+          "Paweł Czapiewski",
+          "Mateusz Aftanas",
+          "Łukasz Dahm"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Whiplash",
+        "score": 8.630604396182562,
+        "rating_count": 2,
+        "neighbors": [
+          "Paweł Czapiewski"
+        ],
+        "source": "sąsiedzi + prior"
+      }
+    ],
+    "anti_recommendations": [
+      {
+        "title": "Barbie",
+        "score": 4.3377173372312745,
+        "rating_count": 6,
+        "neighbors": [
+          "Mateusz Aftanas",
+          "Łukasz Dahm"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "ślub Friza",
+        "score": 4.4275,
+        "rating_count": 2,
+        "neighbors": [],
+        "source": "ogólna (brak sąsiadów filmu)"
+      },
+      {
+        "title": "Battleship: Bitwa o Ziemię",
+        "score": 5.381099149350706,
+        "rating_count": 1,
+        "neighbors": [
+          "Paweł Czapiewski"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Cicha Noc",
+        "score": 5.381099149350706,
+        "rating_count": 1,
+        "neighbors": [
+          "Paweł Czapiewski"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Wyjazd integracyjny",
+        "score": 5.381099149350706,
+        "rating_count": 1,
+        "neighbors": [
+          "Paweł Czapiewski"
+        ],
+        "source": "sąsiedzi + prior"
+      }
+    ],
+    "neighbors": [
+      {
+        "user": "Paweł Czapiewski",
+        "common": 3,
+        "similarity": 0.21089672205953397,
+        "weight": 0.105448361029767
+      },
+      {
+        "user": "Nikifor Koseda",
+        "common": 8,
+        "similarity": 0.125,
+        "weight": 0.09090909090909091
+      },
+      {
+        "user": "Mateusz Aftanas",
+        "common": 7,
+        "similarity": 0.08301951253873768,
+        "weight": 0.058113658777116384
+      },
+      {
+        "user": "Łukasz Dahm",
+        "common": 4,
+        "similarity": 0.09837531795074314,
+        "weight": 0.05621446740042465
+      }
+    ],
+    "candidate_count": 190
+  },
+  {
+    "user": "Jakub Kleemann",
+    "metric": "Pearson",
+    "recommendations": [
+      {
+        "title": "Reacher",
+        "score": 8.939553562253982,
+        "rating_count": 2,
+        "neighbors": [
+          "Nikifor Koseda"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Matrix",
+        "score": 8.892696460115804,
+        "rating_count": 5,
+        "neighbors": [
+          "Nikifor Koseda",
+          "Mateusz Aftanas"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Rick & Morty",
+        "score": 8.87073705307145,
+        "rating_count": 2,
+        "neighbors": [
+          "Paweł Czapiewski",
+          "Mateusz Aftanas"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Narcos",
+        "score": 8.842683149090846,
+        "rating_count": 5,
+        "neighbors": [
+          "Paweł Czapiewski",
+          "Mateusz Aftanas"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Iniemamocni",
+        "score": 8.805563891733353,
+        "rating_count": 3,
+        "neighbors": [
+          "Nikifor Koseda",
+          "Mateusz Aftanas"
+        ],
+        "source": "sąsiedzi + prior"
+      }
+    ],
+    "anti_recommendations": [
+      {
+        "title": "Barbie",
+        "score": 4.1970517112173455,
+        "rating_count": 6,
+        "neighbors": [
+          "Mateusz Aftanas"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "ślub Friza",
+        "score": 4.4275,
+        "rating_count": 2,
+        "neighbors": [],
+        "source": "ogólna (brak sąsiadów filmu)"
+      },
+      {
+        "title": "Battleship: Bitwa o Ziemię",
+        "score": 5.083643780025972,
+        "rating_count": 1,
+        "neighbors": [
+          "Paweł Czapiewski"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Cicha Noc",
+        "score": 5.083643780025972,
+        "rating_count": 1,
+        "neighbors": [
+          "Paweł Czapiewski"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Wyjazd integracyjny",
+        "score": 5.083643780025972,
+        "rating_count": 1,
+        "neighbors": [
+          "Paweł Czapiewski"
+        ],
+        "source": "sąsiedzi + prior"
+      }
+    ],
+    "neighbors": [
+      {
+        "user": "Nikifor Koseda",
+        "common": 8,
+        "similarity": 0.5315886414559698,
+        "weight": 0.38660992105888714
+      },
+      {
+        "user": "Paweł Czapiewski",
+        "common": 3,
+        "similarity": 0.3973597071195132,
+        "weight": 0.1986798535597566
+      },
+      {
+        "user": "Mateusz Aftanas",
+        "common": 7,
+        "similarity": 0.08579658879544291,
+        "weight": 0.060057612156810034
+      }
+    ],
+    "candidate_count": 190
+  },
+  {
+    "user": "Piotr Treder",
+    "metric": "Euclidean",
+    "recommendations": [
+      {
+        "title": "Matrix",
+        "score": 9.063992535489959,
+        "rating_count": 5,
+        "neighbors": [
+          "Miłosz Kurszewski",
+          "Nikifor Koseda",
+          "Łukasz Dahm",
+          "Mateusz Aftanas",
+          "Stanislas Hinsinger"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Hail Mary",
+        "score": 9.03039036510863,
+        "rating_count": 3,
+        "neighbors": [
+          "Mateusz Aftanas",
+          "Nikodem Cyrzan",
+          "Stanislas Hinsinger"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Rick & Morty",
+        "score": 8.806366156399534,
+        "rating_count": 2,
+        "neighbors": [
+          "Paweł Czapiewski",
+          "Mateusz Aftanas"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "WALL-E",
+        "score": 8.783333096699566,
+        "rating_count": 3,
+        "neighbors": [
+          "Miłosz Kurszewski",
+          "Nikodem Cyrzan",
+          "Stanislas Hinsinger"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Diuna",
+        "score": 8.705151992379376,
+        "rating_count": 3,
+        "neighbors": [
+          "Łukasz Dahm",
+          "Nikodem Cyrzan",
+          "Stanislas Hinsinger"
+        ],
+        "source": "sąsiedzi + prior"
+      }
+    ],
+    "anti_recommendations": [
+      {
+        "title": "ślub Friza",
+        "score": 3.813672496505799,
+        "rating_count": 2,
+        "neighbors": [
+          "Nikodem Cyrzan",
+          "Stanislas Hinsinger"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Barbie",
+        "score": 4.015059134823493,
+        "rating_count": 6,
+        "neighbors": [
+          "Miłosz Kurszewski",
+          "Łukasz Dahm",
+          "Mateusz Aftanas",
+          "Nikodem Cyrzan",
+          "Stanislas Hinsinger"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "365 dni: Ten dzień",
+        "score": 5.1698441185466155,
+        "rating_count": 1,
+        "neighbors": [
+          "Stanislas Hinsinger"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Kokainowy rekin",
+        "score": 5.218143844703576,
+        "rating_count": 1,
+        "neighbors": [
+          "Miłosz Kurszewski"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Battleship: Bitwa o Ziemię",
+        "score": 5.3626626988103325,
+        "rating_count": 1,
+        "neighbors": [
+          "Paweł Czapiewski"
+        ],
+        "source": "sąsiedzi + prior"
+      }
+    ],
+    "neighbors": [
+      {
+        "user": "Miłosz Kurszewski",
+        "common": 3,
+        "similarity": 0.2612038749637414,
+        "weight": 0.1306019374818707
+      },
+      {
+        "user": "Nikifor Koseda",
+        "common": 5,
+        "similarity": 0.20521309615767264,
+        "weight": 0.1282581850985454
+      },
+      {
+        "user": "Łukasz Dahm",
+        "common": 6,
+        "similarity": 0.16666666666666666,
+        "weight": 0.1111111111111111
+      },
+      {
+        "user": "Paweł Czapiewski",
+        "common": 4,
+        "similarity": 0.1907435698305462,
+        "weight": 0.10899632561745497
+      },
+      {
+        "user": "Mateusz Aftanas",
+        "common": 7,
+        "similarity": 0.15438708879488486,
+        "weight": 0.1080709621564194
+      },
+      {
+        "user": "Nikodem Cyrzan",
+        "common": 4,
+        "similarity": 0.1639607805437114,
+        "weight": 0.09369187459640652
+      },
+      {
+        "user": "Stanislas Hinsinger",
+        "common": 4,
+        "similarity": 0.122828568570857,
+        "weight": 0.07018775346906114
+      }
+    ],
+    "candidate_count": 188
+  },
+  {
+    "user": "Piotr Treder",
+    "metric": "Pearson",
+    "recommendations": [
+      {
+        "title": "Matrix",
+        "score": 9.43603573749926,
+        "rating_count": 5,
+        "neighbors": [
+          "Łukasz Dahm",
+          "Nikifor Koseda",
+          "Mateusz Aftanas",
+          "Miłosz Kurszewski"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Rick & Morty",
+        "score": 9.433433674114244,
+        "rating_count": 2,
+        "neighbors": [
+          "Paweł Czapiewski",
+          "Mateusz Aftanas"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Hail Mary",
+        "score": 9.22009095449164,
+        "rating_count": 3,
+        "neighbors": [
+          "Mateusz Aftanas"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Whiplash",
+        "score": 9.138984998939902,
+        "rating_count": 2,
+        "neighbors": [
+          "Paweł Czapiewski"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Mroczny Rycerz",
+        "score": 9.12623478877891,
+        "rating_count": 2,
+        "neighbors": [
+          "Łukasz Dahm",
+          "Miłosz Kurszewski"
+        ],
+        "source": "sąsiedzi + prior"
+      }
+    ],
+    "anti_recommendations": [
+      {
+        "title": "Barbie",
+        "score": 4.041420864490987,
+        "rating_count": 6,
+        "neighbors": [
+          "Łukasz Dahm",
+          "Mateusz Aftanas",
+          "Miłosz Kurszewski"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Battleship: Bitwa o Ziemię",
+        "score": 4.306810697764794,
+        "rating_count": 1,
+        "neighbors": [
+          "Paweł Czapiewski"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Cicha Noc",
+        "score": 4.306810697764794,
+        "rating_count": 1,
+        "neighbors": [
+          "Paweł Czapiewski"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "Wyjazd integracyjny",
+        "score": 4.306810697764794,
+        "rating_count": 1,
+        "neighbors": [
+          "Paweł Czapiewski"
+        ],
+        "source": "sąsiedzi + prior"
+      },
+      {
+        "title": "ślub Friza",
+        "score": 4.4275,
+        "rating_count": 2,
+        "neighbors": [],
+        "source": "ogólna (brak sąsiadów filmu)"
+      }
+    ],
+    "neighbors": [
+      {
+        "user": "Paweł Czapiewski",
+        "common": 4,
+        "similarity": 0.9191450300180578,
+        "weight": 0.5252257314388902
+      },
+      {
+        "user": "Łukasz Dahm",
+        "common": 6,
+        "similarity": 0.6229178176443522,
+        "weight": 0.4152785450962348
+      },
+      {
+        "user": "Nikifor Koseda",
+        "common": 5,
+        "similarity": 0.6593804733957871,
+        "weight": 0.41211279587236693
+      },
+      {
+        "user": "Mateusz Aftanas",
+        "common": 7,
+        "similarity": 0.5451116758338926,
+        "weight": 0.3815781730837248
+      },
+      {
+        "user": "Miłosz Kurszewski",
+        "common": 3,
+        "similarity": 0.5,
+        "weight": 0.25
+      }
+    ],
+    "candidate_count": 188
+  },
+  {
+    "user": "Aleksander Kozłowicz",
+    "metric": "Euclidean",
+    "recommendations": [
+      {
+        "title": "Hail Mary",
+        "score": 8.689583333333333,
+        "rating_count": 3,
+        "neighbors": [],
+        "source": "ogólna (brak sąsiadów filmu)"
+      },
+      {
+        "title": "Matrix",
+        "score": 8.6421875,
+        "rating_count": 5,
+        "neighbors": [],
+        "source": "ogólna (brak sąsiadów filmu)"
+      },
+      {
+        "title": "WALL-E",
+        "score": 8.522916666666667,
+        "rating_count": 3,
+        "neighbors": [],
+        "source": "ogólna (brak sąsiadów filmu)"
+      },
+      {
+        "title": "Breaking bad",
+        "score": 8.4275,
+        "rating_count": 2,
+        "neighbors": [],
+        "source": "ogólna (brak sąsiadów filmu)"
+      },
+      {
+        "title": "Reacher",
+        "score": 8.4275,
+        "rating_count": 2,
+        "neighbors": [],
+        "source": "ogólna (brak sąsiadów filmu)"
+      }
+    ],
+    "anti_recommendations": [
+      {
+        "title": "Barbie",
+        "score": 4.348611111111111,
+        "rating_count": 6,
+        "neighbors": [],
+        "source": "ogólna (brak sąsiadów filmu)"
+      },
+      {
+        "title": "ślub Friza",
+        "score": 4.4275,
+        "rating_count": 2,
+        "neighbors": [],
+        "source": "ogólna (brak sąsiadów filmu)"
+      },
+      {
+        "title": "365 dni: Ten dzień",
+        "score": 5.534375,
+        "rating_count": 1,
+        "neighbors": [],
+        "source": "ogólna (brak sąsiadów filmu)"
+      },
+      {
+        "title": "Joker",
+        "score": 5.6274999999999995,
+        "rating_count": 2,
+        "neighbors": [],
+        "source": "ogólna (brak sąsiadów filmu)"
+      },
+      {
+        "title": "365 dni",
+        "score": 5.784375,
+        "rating_count": 1,
+        "neighbors": [],
+        "source": "ogólna (brak sąsiadów filmu)"
+      }
+    ],
+    "neighbors": [],
+    "candidate_count": 228
+  },
+  {
+    "user": "Aleksander Kozłowicz",
+    "metric": "Pearson",
+    "recommendations": [
+      {
+        "title": "Hail Mary",
+        "score": 8.689583333333333,
+        "rating_count": 3,
+        "neighbors": [],
+        "source": "ogólna (brak sąsiadów filmu)"
+      },
+      {
+        "title": "Matrix",
+        "score": 8.6421875,
+        "rating_count": 5,
+        "neighbors": [],
+        "source": "ogólna (brak sąsiadów filmu)"
+      },
+      {
+        "title": "WALL-E",
+        "score": 8.522916666666667,
+        "rating_count": 3,
+        "neighbors": [],
+        "source": "ogólna (brak sąsiadów filmu)"
+      },
+      {
+        "title": "Breaking bad",
+        "score": 8.4275,
+        "rating_count": 2,
+        "neighbors": [],
+        "source": "ogólna (brak sąsiadów filmu)"
+      },
+      {
+        "title": "Reacher",
+        "score": 8.4275,
+        "rating_count": 2,
+        "neighbors": [],
+        "source": "ogólna (brak sąsiadów filmu)"
+      }
+    ],
+    "anti_recommendations": [
+      {
+        "title": "Barbie",
+        "score": 4.348611111111111,
+        "rating_count": 6,
+        "neighbors": [],
+        "source": "ogólna (brak sąsiadów filmu)"
+      },
+      {
+        "title": "ślub Friza",
+        "score": 4.4275,
+        "rating_count": 2,
+        "neighbors": [],
+        "source": "ogólna (brak sąsiadów filmu)"
+      },
+      {
+        "title": "365 dni: Ten dzień",
+        "score": 5.534375,
+        "rating_count": 1,
+        "neighbors": [],
+        "source": "ogólna (brak sąsiadów filmu)"
+      },
+      {
+        "title": "Joker",
+        "score": 5.6274999999999995,
+        "rating_count": 2,
+        "neighbors": [],
+        "source": "ogólna (brak sąsiadów filmu)"
+      },
+      {
+        "title": "365 dni",
+        "score": 5.784375,
+        "rating_count": 1,
+        "neighbors": [],
+        "source": "ogólna (brak sąsiadów filmu)"
+      }
+    ],
+    "neighbors": [],
+    "candidate_count": 228
+  }
+]

@@ -1,0 +1,189 @@
+{
+  "users": 13,
+  "titles": 230,
+  "source_ratings": 363,
+  "unique_ratings": 360,
+  "zero_ratings": 3,
+  "missing_ratings": [
+    {
+      "user": "Aleksander Kozłowicz",
+      "title": "Pulp Fiction"
+    }
+  ],
+  "duplicates": [
+    {
+      "user": "Jakub Kleemann",
+      "title": "Forrest Gump",
+      "original": [
+        6.0,
+        10.0
+      ],
+      "mean": 8.0
+    },
+    {
+      "user": "Miłosz Kurszewski",
+      "title": "Gra o tron",
+      "original": [
+        2.0,
+        4.0
+      ],
+      "mean": 3.0
+    },
+    {
+      "user": "Miłosz Kurszewski",
+      "title": "Lśnienie",
+      "original": [
+        9.0,
+        10.0
+      ],
+      "mean": 9.5
+    }
+  ],
+  "title_changes": [
+    {
+      "user": "Paweł Czapiewski",
+      "from": "Niebieskoki Samuraj",
+      "to": "Niebieskooki samuraj"
+    },
+    {
+      "user": "Paweł Czapiewski",
+      "from": "List do M.",
+      "to": "Listy do M."
+    },
+    {
+      "user": "Paweł Czapiewski",
+      "from": "List do M. 2",
+      "to": "Listy do M. 2"
+    },
+    {
+      "user": "Paweł Czapiewski",
+      "from": "La Casa De Papel",
+      "to": "Dom z papieru"
+    },
+    {
+      "user": "Jakub Kleemann",
+      "from": "Eksperymeny SS",
+      "to": "Eksperymenty SS"
+    },
+    {
+      "user": "Piotr Treder",
+      "from": "Gran Tourismo",
+      "to": "Gran Turismo"
+    },
+    {
+      "user": "Piotr Treder",
+      "from": "Better Call Soul",
+      "to": "Better Call Saul"
+    },
+    {
+      "user": "Piotr Treder",
+      "from": "Farma Clarskona",
+      "to": "Farma Clarksona"
+    },
+    {
+      "user": "Łukasz Dahm",
+      "from": "How I meet your mother",
+      "to": "How I Met Your Mother"
+    },
+    {
+      "user": "Łukasz Dahm",
+      "from": "Titatnic",
+      "to": "Titanic"
+    },
+    {
+      "user": "Łukasz Dahm",
+      "from": "The Matrix",
+      "to": "Matrix"
+    },
+    {
+      "user": "Łukasz Dahm",
+      "from": "Kapitan Philips",
+      "to": "Kapitan Phillips"
+    },
+    {
+      "user": "Łukasz Dahm",
+      "from": "Dzień świra",
+      "to": "Dzień Świra"
+    },
+    {
+      "user": "Łukasz Dahm",
+      "from": "Dr House",
+      "to": "Dr. House"
+    },
+    {
+      "user": "Patryk Latkowski",
+      "from": "star wars",
+      "to": "Gwiezdne Wojny"
+    },
+    {
+      "user": "Mateusz Aftanas",
+      "from": "Gra o Tron",
+      "to": "Gra o tron"
+    },
+    {
+      "user": "Miłosz Kurszewski",
+      "from": "Głupi i Głupszy",
+      "to": "Głupi i głupszy"
+    },
+    {
+      "user": "Miłosz Kurszewski",
+      "from": "Mrocny Rycerz",
+      "to": "Mroczny Rycerz"
+    },
+    {
+      "user": "Miłosz Kurszewski",
+      "from": "Openheimer",
+      "to": "Oppenheimer"
+    },
+    {
+      "user": "Miłosz Kurszewski",
+      "from": "Titatnic",
+      "to": "Titanic"
+    },
+    {
+      "user": "Miłosz Kurszewski",
+      "from": "Jestem legendą",
+      "to": "Jestem Legendą"
+    },
+    {
+      "user": "Nikifor Koseda",
+      "from": "Pibull (2005-2008)",
+      "to": "Pitbull (2005–2008)"
+    },
+    {
+      "user": "Nikifor Koseda",
+      "from": "Ocalenie Szeregowca Rayana",
+      "to": "Szeregowiec Ryan"
+    },
+    {
+      "user": "Nikodem Cyrzan",
+      "from": "Gra o Tron",
+      "to": "Gra o tron"
+    },
+    {
+      "user": "Nikodem Cyrzan",
+      "from": "Dune 1",
+      "to": "Diuna"
+    },
+    {
+      "user": "Nikodem Cyrzan",
+      "from": "Dune 2",
+      "to": "Diuna: część druga"
+    },
+    {
+      "user": "Nikodem Cyrzan",
+      "from": "Gran Tourismo",
+      "to": "Gran Turismo"
+    },
+    {
+      "user": "Stanislas Hinsinger",
+      "from": "Dune 1",
+      "to": "Diuna"
+    },
+    {
+      "user": "Stanislas Hinsinger",
+      "from": "Dune 2",
+      "to": "Diuna: część druga"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "method": "leave-one-out, no held-out rating in training statistics",
+  "total_ratings": 360,
+  "evaluated": 216,
+  "skipped_unique_titles": 144,
+  "metrics": {
+    "Euclidean": {
+      "mae": 1.6371757716569337,
+      "rmse": 2.100584863874892,
+      "personalized_predictions": 187
+    },
+    "Pearson": {
+      "mae": 1.6004048334678227,
+      "rmse": 2.0781388212350054,
+      "personalized_predictions": 147
+    },
+    "Prior": {
+      "mae": 1.660442780872795,
+      "rmse": 2.117714867582497,
+      "personalized_predictions": 0
+    }
+  }
+}
